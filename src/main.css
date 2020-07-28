@@ -1,0 +1,15 @@
+
+.main{
+    width: 30%;
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.fullname{
+    display: flex;
+    justify-content: space-evenly;
+}
+.address{
+    color: cornflowerblue;
+}
